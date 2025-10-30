@@ -47,7 +47,7 @@ It visualizes patient data including visits, wait times, satisfaction levels, ad
 ---
 
 ## 🎓 Learning Source  
-This project was created as part of the **[@SatishDhawale](https://github.com/SatishDhawale)**, focused on practical Excel dashboard development and data analysis techniques.
+This project was created as part of the **[@SatishDhawale](https://www.youtube.com/@Satish_Dhawale)**, focused on practical Excel dashboard development and data analysis techniques.
 
 ---
 
@@ -84,6 +84,6 @@ helping to monitor service quality, manage workloads, and enhance patient satisf
 
 ## 💡 Author  
 **Created by:** *Satyaban Nayak*  
-**Learning Source:** *[@SatishDhawale](https://github.com/SatishDhawale)*  
+**Learning Source:** *[@SatishDhawale](https://www.youtube.com/@Satish_Dhawale)*  
 
 
